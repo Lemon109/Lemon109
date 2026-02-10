@@ -25,8 +25,6 @@
 
 * 只会用野牛的野牛教主
 * 干啥啥不行，摆烂第一名<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F55.惬意.png" width="30">
-*<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F120.笑哭.png" width="30">
-
 
 ----------
 
