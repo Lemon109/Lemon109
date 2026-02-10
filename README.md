@@ -5,6 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div>&nbsp;</div>
 <a href="https://nzklp.xiyouji3.work/?code=12097404"><img order-radius="100px" src="https://r2.lsmr.nl/about/2894423150.gif"></a>
 </div>
@@ -17,7 +18,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
 </picture>
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 # 🙋Hello <img src="https://r2.lsmr.nl/Emoji%2FSticker%2F45.开心.png" width="30">
 
 
@@ -25,6 +26,7 @@
 
 * 只会用野牛的野牛教主
 * 干啥啥不行，摆烂第一名<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F55.惬意.png" width="30">
+
 
 ----------
 
