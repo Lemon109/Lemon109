@@ -29,21 +29,6 @@
 ----------
 
 常用的工具:
-![img](https://img.shields.io/badge/-HTML5-d85b25?style=flat-square&logo=HTML5&logoColor=fff)
-![img](https://img.shields.io/badge/-CSS3-255bd8?style=flat-square&logo=css3&logoColor=fff)
-![img](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff) 
-![img](https://img.shields.io/badge/-Vue.js-3aa476?style=flat-square&logo=vuedotjs&logoColor=fff)
-![img](https://img.shields.io/badge/-PHP-6a6ea1?style=flat-square&logo=PHP&logoColor=fff) 
-![img](https://img.shields.io/badge/-MySQL-085467?style=flat-square&logo=mysql&logoColor=fff) 
-![img](https://img.shields.io/badge/-C++-5b8adb?style=flat-square&logo=cplusplus&logoColor=fff) 
-![img](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff) 
-![img](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff) 
-![img](https://img.shields.io/badge/-Node.js-5c9052?style=flat-square&logo=nodedotjs&logoColor=fff) 
-![img](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) 
-![img](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) 
-![img](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) 
-![img](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff) 
-
 
 </div>
 
