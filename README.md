@@ -4,9 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
-
 <div>&nbsp;</div>
 <a href="https://nzklp.xiyouji3.work/?code=12097404"><img order-radius="100px" src="https://r2.lsmr.nl/about/2894423150.gif"></a>
 </div>
