@@ -29,21 +29,6 @@
 ----------
 
 常用的工具:
-<!-- Gif -->
-
-<div align="center">
-<img src="https://r2.lsmr.nl/about/855961982.gif" width="50" title="html">
-<img alt="css" src="https://r2.lsmr.nl/about/2415112337.gif" width="50" title="css">
-<img alt="VSCode" src="https://r2.lsmr.nl/about/1089571092.webp" width="50" title="vscode">
-<img alt="python" src="https://r2.lsmr.nl/about/3049801562.webp" width="50" title="python">
-<img alt="javascript" src="https://r2.lsmr.nl/about/651026981.webp" width="50" title="javascript">
-<img alt="sublime" src="https://r2.lsmr.nl/about/1072282404.gif" width="50" title="sublime">
-<img alt="github" src="https://r2.lsmr.nl/about/1784442089.webp" width="50" title="github">
-<img alt="node" src="https://r2.lsmr.nl/about/3956306628.gif" width="45" title="node">
-</div>
-
-<!-- just img -->
-
 <div align="center"><img src="https://r2.lsmr.nl/about/3238318718.png" /></div>
 
 ![img](https://img.shields.io/badge/-HTML5-d85b25?style=flat-square&logo=HTML5&logoColor=fff)
@@ -141,36 +126,3 @@
 
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-</div>
