@@ -6,7 +6,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div>&nbsp;</div>
 <a href="https://nzklp.xiyouji3.work/?code=12097404"><img order-radius="100px" src="https://r2.lsmr.nl/about/2894423150.gif"></a>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
 <a href="#">
