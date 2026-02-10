@@ -1,4 +1,5 @@
 <div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 <a href="https://nzklp.xiyouji3.work/?code=12097404"><img order-radius="100px" src="https://r2.lsmr.nl/about/2894423150.gif"></a>
 </div>
 
