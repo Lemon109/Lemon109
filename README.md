@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);野牛教主祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -18,7 +18,7 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
 </picture>
 
-# Hello <img src="https://r2.lsmr.nl/Emoji%2FSticker%2F45.开心.png" width="30">
+# 🙋Hello <img src="https://r2.lsmr.nl/Emoji%2FSticker%2F45.开心.png" width="30">
 
 
 你好！(。・∀・)ノ这里是我的个人主页。
